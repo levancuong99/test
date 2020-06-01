@@ -1,2 +1,2 @@
 # test
-Update version 1.0:SNAPSHOT
+Update version 1.0:
