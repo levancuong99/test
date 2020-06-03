@@ -1,2 +1,2 @@
 # test
-Update version 1.0:
+Update version 2.0:
